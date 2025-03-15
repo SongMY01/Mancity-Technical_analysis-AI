@@ -1,0 +1,88 @@
+﻿Rk,Date,Comp,Round,Venue,Scorer,Opponent,Start,xG,PSxG,Body Part,Distance,Minute,Goalkeeper against,Assist
+1,2024-08-10,FA Community Shield,FA Community Shield,Home,Bernardo Silva,Manchester Utd,N,null,null,null,null,89,null,Oscar Bobb
+2,2024-08-18,Premier League,Matchweek 1,Away,Erling Haaland,Chelsea,Y,0.17,0.18,Left Foot,9,18,Robert Sánchez,Bernardo Silva
+3,2024-08-18,Premier League,Matchweek 1,Away,Mateo Kovačić,Chelsea,Y,0.08,0.07,Right Foot,23,84,Robert Sánchez,null
+4,2024-08-24,Premier League,Matchweek 2,Home,Erling Haaland,Ipswich Town,Y,0.79,0.84,Left Foot,13,12,Arijanet Muric,null
+5,2024-08-24,Premier League,Matchweek 2,Home,Kevin De Bruyne,Ipswich Town,Y*,0.59,0.97,Left Foot,26,14,Arijanet Muric,Sávio
+6,2024-08-24,Premier League,Matchweek 2,Home,Erling Haaland,Ipswich Town,Y,0.21,0.92,Left Foot,13,16,Arijanet Muric,Kevin De Bruyne
+7,2024-08-24,Premier League,Matchweek 2,Home,Erling Haaland,Ipswich Town,Y,0.04,0.31,Left Foot,25,88,Arijanet Muric,null
+8,2024-08-31,Premier League,Matchweek 3,Away,Erling Haaland,West Ham,Y,0.46,0.88,Left Foot,15,10,Alphonse Areola,Bernardo Silva
+9,2024-08-31,Premier League,Matchweek 3,Away,Erling Haaland,West Ham,Y,0.08,0.28,Left Foot,16,30,Alphonse Areola,Rico Lewis
+10,2024-08-31,Premier League,Matchweek 3,Away,Erling Haaland,West Ham,Y,0.55,0.66,Left Foot,20,83,Łukasz Fabiański,Matheus Nunes
+11,2024-09-14,Premier League,Matchweek 4,Home,Erling Haaland,Brentford,Y,0.07,0.5,Right Foot,10,19,Mark Flekken,null
+12,2024-09-14,Premier League,Matchweek 4,Home,Erling Haaland,Brentford,Y,0.38,0.22,Left Foot,15,32,Mark Flekken,Ederson
+13,2024-09-22,Premier League,Matchweek 5,Home,Erling Haaland,Arsenal,Y,0.51,0.52,Left Foot,15,9,David Raya,Sávio
+14,2024-09-22,Premier League,Matchweek 5,Home,John Stones,Arsenal,N,0.18,0.43,Left Foot,6,90+8,David Raya,null
+15,2024-09-24,EFL Cup,Third round,Home,Jeremy Doku,Watford,Y,null,null,null,null,5,Jonathan Bond,Jack Grealish
+16,2024-09-24,EFL Cup,Third round,Home,Matheus Nunes,Watford,Y,null,null,null,null,38,Jonathan Bond,Rico Lewis
+17,2024-09-28,Premier League,Matchweek 6,Away,Joško Gvardiol,Newcastle Utd,Y,0.08,0.68,Right Foot,10,35,Nick Pope,Jack Grealish
+18,2024-10-01,Champions Lg,League phase,Away,İlkay Gündoğan,Slovan Bratislava,Y*,0.1,0.67,Right Foot,20,8,Dominik Takáč,null
+19,2024-10-01,Champions Lg,League phase,Away,Phil Foden,Slovan Bratislava,Y,0.1,0.85,Left Foot,18,15,Dominik Takáč,Jeremy Doku
+20,2024-10-01,Champions Lg,League phase,Away,Erling Haaland,Slovan Bratislava,Y,0.96,1,Right Foot,4,58,Dominik Takáč,Rico Lewis
+21,2024-10-01,Champions Lg,League phase,Away,James Mcatee,Slovan Bratislava,N,0.08,0.41,Left Foot,12,74,Dominik Takáč,Phil Foden
+22,2024-10-05,Premier League,Matchweek 7,Home,Mateo Kovačić,Fulham,Y,0.07,0.39,Right Foot,16,32,Bernd Leno,null
+23,2024-10-05,Premier League,Matchweek 7,Home,Mateo Kovačić,Fulham,Y,0.13,0.15,Right Foot,20,47,Bernd Leno,Bernardo Silva
+24,2024-10-05,Premier League,Matchweek 7,Home,Jeremy Doku,Fulham,N,0.06,0.07,Right Foot,21,82,Bernd Leno,Rico Lewis
+25,2024-10-20,Premier League,Matchweek 8,Away,Joško Gvardiol,Wolves,Y,0.02,0.12,Right Foot,24,33,José Sá,Jeremy Doku
+26,2024-10-20,Premier League,Matchweek 8,Away,John Stones,Wolves,Y,0.26,0.4,Head,4,90+5,José Sá,Phil Foden
+27,2024-10-23,Champions Lg,League phase,Home,Phil Foden,Sparta Prague,Y,0.06,0.27,Left Foot,17,3,Peter Vindahl Jensen,Manuel Akanji
+28,2024-10-23,Champions Lg,League phase,Home,Erling Haaland,Sparta Prague,Y,0.09,0.76,Left Foot,11,58,Peter Vindahl Jensen,Sávio
+29,2024-10-23,Champions Lg,League phase,Home,John Stones,Sparta Prague,Y,0.18,0.8,Head,8,64,Peter Vindahl Jensen,Matheus Nunes
+30,2024-10-23,Champions Lg,League phase,Home,Erling Haaland,Sparta Prague,Y,0.19,0.75,Right Foot,14,68,Peter Vindahl Jensen,Matheus Nunes
+31,2024-10-23,Champions Lg,League phase,Home,Matheus Nunes,Sparta Prague,Y,0.79,0.85,Right Foot,13,88,Peter Vindahl Jensen,null
+32,2024-10-26,Premier League,Matchweek 9,Home,Erling Haaland,Southampton,Y,0.38,0.34,Left Foot,7,5,Aaron Ramsdale,Matheus Nunes
+33,2024-10-30,EFL Cup,Fourth round,Away,Matheus Nunes,Tottenham,Y,null,null,null,null,45+4,Guglielmo Vicario,Sávio
+34,2024-11-02,Premier League,Matchweek 10,Away,Joško Gvardiol,Bournemouth,Y,0.06,0.23,Head,9,82,Mark Travers,İlkay Gündoğan
+35,2024-11-05,Champions Lg,League phase,Away,Phil Foden,Sporting CP,Y,0.07,0.05,Left Foot,16,4,Franco Israel,null
+36,2024-11-09,Premier League,Matchweek 11,Away,Erling Haaland,Brighton,Y,0.66,0.99,Right Foot,3,23,Bart Verbruggen,null
+37,2024-11-26,Champions Lg,League phase,Home,Erling Haaland,Feyenoord,Y,0.79,0.79,Left Foot,13,44,Timon Wellenreuther,null
+38,2024-11-26,Champions Lg,League phase,Home,İlkay Gündoğan,Feyenoord,Y,0.03,0.11,Left Foot,19,50,Timon Wellenreuther,null
+39,2024-11-26,Champions Lg,League phase,Home,Erling Haaland,Feyenoord,Y,0.46,0.95,Left Foot,7,53,Timon Wellenreuther,Matheus Nunes
+40,2024-12-04,Premier League,Matchweek 14,Home,Bernardo Silva,Nott'ham Forest,Y,0.84,0.99,Left Foot,2,8,Matz Sels,Kevin De Bruyne
+41,2024-12-04,Premier League,Matchweek 14,Home,Kevin De Bruyne,Nott'ham Forest,Y*,0.14,0.67,Right Foot,16,31,Matz Sels,Jeremy Doku
+42,2024-12-04,Premier League,Matchweek 14,Home,Jeremy Doku,Nott'ham Forest,Y,0.09,0.54,Right Foot,17,57,Matz Sels,Erling Haaland
+43,2024-12-07,Premier League,Matchweek 15,Away,Erling Haaland,Crystal Palace,Y,0.14,0.79,Head,8,30,Dean Henderson,Matheus Nunes
+44,2024-12-07,Premier League,Matchweek 15,Away,Rico Lewis,Crystal Palace,Y,0.15,0.77,Right Foot,17,68,Dean Henderson,Bernardo Silva
+45,2024-12-15,Premier League,Matchweek 16,Home,Joško Gvardiol,Manchester Utd,Y,0.08,0.16,Head,9,36,André Onana,null
+46,2024-12-21,Premier League,Matchweek 17,Away,Phil Foden,Aston Villa,Y,0.28,0.84,Left Foot,12,90+3,Emiliano Martínez,null
+47,2024-12-26,Premier League,Matchweek 18,Home,Bernardo Silva,Everton,Y*,0.06,0.62,Left Foot,9,14,Jordan Pickford,Jeremy Doku
+48,2024-12-29,Premier League,Matchweek 19,Away,Sávio,Leicester City,Y,0.19,0.42,Left Foot,8,21,Jakub Stolarczyk,null
+49,2024-12-29,Premier League,Matchweek 19,Away,Erling Haaland,Leicester City,Y,0.18,0.37,Head,8,74,Jakub Stolarczyk,Sávio
+50,2025-01-04,Premier League,Matchweek 20,Home,Vladimír Coufal (OG),West Ham,Y,null,null,null,null,10,Alphonse Areola,null
+51,2025-01-04,Premier League,Matchweek 20,Home,Erling Haaland,West Ham,Y,0.65,0.99,Head,4,42,Alphonse Areola,Sávio
+52,2025-01-04,Premier League,Matchweek 20,Home,Erling Haaland,West Ham,Y,0.3,0.82,Left Foot,12,55,Alphonse Areola,Sávio
+53,2025-01-04,Premier League,Matchweek 20,Home,Phil Foden,West Ham,Y,0.59,0.26,Left Foot,10,58,Alphonse Areola,Kevin De Bruyne
+54,2025-01-11,FA Cup,Third round proper,Home,Jeremy Doku,Salford City,Y,null,null,null,null,8,Matt Young,Jack Grealish
+55,2025-01-11,FA Cup,Third round proper,Home,Divin Mubama,Salford City,Y,null,null,null,null,20,Matt Young,Matheus Nunes
+56,2025-01-11,FA Cup,Third round proper,Home,Nico O’Reilly,Salford City,Y,null,null,null,null,43,Matt Young,Jeremy Doku
+57,2025-01-11,FA Cup,Third round proper,Home,Jack Grealish,Salford City,Y,null,null,null,null,49,Matt Young,null
+58,2025-01-11,FA Cup,Third round proper,Home,James Mcatee,Salford City,Y,null,null,null,null,62,Matt Young,Jeremy Doku
+59,2025-01-11,FA Cup,Third round proper,Home,Jeremy Doku,Salford City,Y,null,null,null,null,69,Matt Young,null
+60,2025-01-11,FA Cup,Third round proper,Home,James Mcatee,Salford City,Y,null,null,null,null,72,Matt Young,Phil Foden
+61,2025-01-11,FA Cup,Third round proper,Home,James Mcatee,Salford City,Y,null,null,null,null,81,Matt Young,Jack Grealish
+62,2025-01-14,Premier League,Matchweek 21,Away,Phil Foden,Brentford,Y,0.37,0.93,Left Foot,10,66,Mark Flekken,Kevin De Bruyne
+63,2025-01-14,Premier League,Matchweek 21,Away,Phil Foden,Brentford,Y,0.14,0.26,Left Foot,9,78,Mark Flekken,null
+64,2025-01-19,Premier League,Matchweek 22,Away,Phil Foden,Ipswich Town,Y,0.24,0.81,Left Foot,7,27,Christian Walton,null
+65,2025-01-19,Premier League,Matchweek 22,Away,Mateo Kovačić,Ipswich Town,Y,0.04,0.22,Right Foot,21,30,Christian Walton,Phil Foden
+66,2025-01-19,Premier League,Matchweek 22,Away,Phil Foden,Ipswich Town,Y,0.41,0.67,Left Foot,6,42,Christian Walton,Kevin De Bruyne
+67,2025-01-19,Premier League,Matchweek 22,Away,Jeremy Doku,Ipswich Town,Y,0.06,0.51,Right Foot,13,49,Christian Walton,Kevin De Bruyne
+68,2025-01-19,Premier League,Matchweek 22,Away,Erling Haaland,Ipswich Town,Y,0.51,0.39,Left Foot,13,57,Christian Walton,Jeremy Doku
+69,2025-01-19,Premier League,Matchweek 22,Away,James Mcatee,Ipswich Town,N,0.46,0.66,Head,10,69,Christian Walton,Mateo Kovačić
+70,2025-01-22,Champions Lg,League phase,Away,Jack Grealish,Paris S-G,N,0.38,0.9,Right Foot,8,50,Gianluigi Donnarumma,null
+71,2025-01-22,Champions Lg,League phase,Away,Erling Haaland,Paris S-G,Y,0.54,0.69,Left Foot,3,53,Gianluigi Donnarumma,null
+72,2025-01-25,Premier League,Matchweek 23,Home,Joško Gvardiol,Chelsea,Y,0.68,0.99,Left Foot,5,42,Robert Sánchez,Matheus Nunes
+73,2025-01-25,Premier League,Matchweek 23,Home,Erling Haaland,Chelsea,Y,0.08,0.1,Left Foot,26,68,Robert Sánchez,Ederson
+74,2025-01-25,Premier League,Matchweek 23,Home,Phil Foden,Chelsea,Y,0.25,0.74,Left Foot,15,87,Robert Sánchez,Erling Haaland
+75,2025-01-29,Champions Lg,League phase,Home,Mateo Kovačić,Club Brugge,Y,0.07,0.58,Right Foot,22,53,Simon Mignolet,John Stones
+76,2025-01-29,Champions Lg,League phase,Home,Joel Ordóñez (OG),Club Brugge,Y,null,null,null,null,62,Simon Mignolet,null
+77,2025-01-29,Champions Lg,League phase,Home,Sávio,Club Brugge,N,0.16,0.19,Right Foot,11,77,Simon Mignolet,John Stones
+78,2025-02-02,Premier League,Matchweek 24,Away,Erling Haaland,Arsenal,Y,0.36,0.62,Head,6,55,David Raya,Sávio
+79,2025-02-08,FA Cup,Fourth round proper,Away,Abdukodir Khusanov,Leyton Orient,N,null,null,null,null,56,Josh Keeley,Rico Lewis
+80,2025-02-08,FA Cup,Fourth round proper,Away,Kevin De Bruyne,Leyton Orient,N,null,null,null,null,79,Josh Keeley,Jack Grealish
+81,2025-02-11,Champions Lg,Knockout phase play-offs,Home,Erling Haaland,Real Madrid,Y,0.21,0.4,Left Foot,6,19,Thibaut Courtois,Joško Gvardiol
+82,2025-02-11,Champions Lg,Knockout phase play-offs,Home,Erling Haaland,Real Madrid,Y,0.79,0.9,Left Foot,13,80,Thibaut Courtois,null
+83,2025-02-15,Premier League,Matchweek 25,Home,Omar Marmoush,Newcastle Utd,Y,0.35,0.32,Right Foot,20,19,Martin Dúbravka,Ederson
+84,2025-02-15,Premier League,Matchweek 25,Home,Omar Marmoush,Newcastle Utd,Y,0.08,0.58,Right Foot,16,24,Martin Dúbravka,İlkay Gündoğan
+85,2025-02-15,Premier League,Matchweek 25,Home,Omar Marmoush,Newcastle Utd,Y,0.23,0.14,Right Foot,12,33,Martin Dúbravka,Sávio
+86,2025-02-15,Premier League,Matchweek 25,Home,James Mcatee,Newcastle Utd,N,0.55,0.94,Left Foot,4,84,Martin Dúbravka,Erling Haaland
+87,2025-02-19,Champions Lg,Knockout phase play-offs,Away,Nicolás González,Real Madrid,Y,0.91,1,Left Foot,6,90+2,Thibaut Courtois,null

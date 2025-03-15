@@ -1,0 +1,41 @@
+﻿Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,SCA Types_SCA,SCA Types_PassLive,SCA Types_PassDead,SCA Types_TO,SCA Types_Sh,SCA Types_Fld,SCA Types_Def,GCA Types_GCA,GCA Types_PassLive,GCA Types_PassDead,GCA Types_TO,GCA Types_Sh,GCA Types_Fld,GCA Types_Def
+2024-08-10,15:00 (23:00),FA Community Shield,FA Community Shield,Sat,Home,D,1 (7),1 (6),Manchester Utd,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+2024-08-18,16:30 (00:30),Premier League,Matchweek 1,Sun,Away,W,2,0,Chelsea,19,16,0,3,0,0,0,3,1,0,2,0,0,0
+2024-08-24,15:00 (23:00),Premier League,Matchweek 2,Sat,Home,W,4,1,Ipswich Town,28,22,2,1,0,2,1,8,5,0,1,0,1,1
+2024-08-31,17:30 (01:30),Premier League,Matchweek 3,Sat,Away,W,3,1,West Ham,42,31,5,2,3,1,0,5,4,0,1,0,0,0
+2024-09-14,15:00 (23:00),Premier League,Matchweek 4,Sat,Home,W,2,1,Brentford,32,29,2,0,1,0,0,2,2,0,0,0,0,0
+2024-09-18,20:00 (04:00),Champions Lg,League phase,Wed,Home,D,0,0,it Inter,39,36,1,0,1,1,0,0,0,0,0,0,0,0
+2024-09-22,16:30 (00:30),Premier League,Matchweek 5,Sun,Home,D,2,2,Arsenal,64,55,1,3,3,1,1,3,1,0,1,1,0,0
+2024-09-24,19:45 (03:45),EFL Cup,Third round,Tue,Home,W,2,1,Watford,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+2024-09-28,12:30 (20:30),Premier League,Matchweek 6,Sat,Away,D,1,1,Newcastle Utd,31,27,1,2,0,1,0,2,1,0,1,0,0,0
+2024-10-01,21:00 (04:00),Champions Lg,League phase,Tue,Away,W,4,0,sk Slovan Bratislava,49,45,2,1,1,0,0,7,5,0,1,1,0,0
+2024-10-05,15:00 (23:00),Premier League,Matchweek 7,Sat,Home,W,3,2,Fulham,32,19,2,5,3,2,1,5,4,0,0,0,0,1
+2024-10-20,14:00 (22:00),Premier League,Matchweek 8,Sun,Away,W,2,1,Wolves,42,27,6,3,4,2,0,4,2,1,0,1,0,0
+2024-10-23,20:00 (04:00),Champions Lg,League phase,Wed,Home,W,5,0,cz Sparta Prague,39,29,1,5,3,1,0,10,7,0,2,0,1,0
+2024-10-26,15:00 (23:00),Premier League,Matchweek 9,Sat,Home,W,1,0,Southampton,40,33,4,1,1,1,0,2,2,0,0,0,0,0
+2024-10-30,20:15 (05:15),EFL Cup,Fourth round,Wed,Away,L,1,2,Tottenham,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+2024-11-02,15:00 (00:00),Premier League,Matchweek 10,Sat,Away,L,1,2,Bournemouth,34,31,0,1,1,1,0,2,2,0,0,0,0,0
+2024-11-05,20:00 (05:00),Champions Lg,League phase,Tue,Away,L,1,4,pt Sporting CP,33,24,1,3,2,2,1,1,0,0,0,0,0,1
+2024-11-09,17:30 (02:30),Premier League,Matchweek 11,Sat,Away,L,1,2,Brighton,27,21,2,1,2,1,0,1,0,0,0,1,0,0
+2024-11-23,17:30 (02:30),Premier League,Matchweek 12,Sat,Home,L,0,4,Tottenham,44,36,2,6,0,0,0,0,0,0,0,0,0,0
+2024-11-26,20:00 (05:00),Champions Lg,League phase,Tue,Home,D,3,3,nl Feyenoord,32,26,2,0,1,1,2,5,2,1,0,1,1,0
+2024-12-01,16:00 (01:00),Premier League,Matchweek 13,Sun,Away,L,0,2,Liverpool,14,11,0,1,1,0,1,0,0,0,0,0,0,0
+2024-12-04,19:30 (04:30),Premier League,Matchweek 14,Wed,Home,W,3,0,Nott'ham Forest,28,21,3,2,1,0,1,5,3,0,1,1,0,0
+2024-12-07,15:00 (00:00),Premier League,Matchweek 15,Sat,Away,D,2,2,Crystal Palace,23,19,2,0,2,0,0,4,4,0,0,0,0,0
+2024-12-11,21:00 (05:00),Champions Lg,League phase,Wed,Away,L,0,2,it Juventus,23,19,0,2,1,1,0,0,0,0,0,0,0,0
+2024-12-15,16:30 (01:30),Premier League,Matchweek 16,Sun,Home,L,1,2,Manchester Utd,16,10,2,1,2,1,0,2,1,1,0,0,0,0
+2024-12-21,12:30 (21:30),Premier League,Matchweek 17,Sat,Away,L,1,2,Aston Villa,23,21,0,1,1,0,0,1,0,0,0,1,0,0
+2024-12-26,12:30 (21:30),Premier League,Matchweek 18,Thu,Home,D,1,1,Everton,41,27,3,6,2,3,0,2,2,0,0,0,0,0
+2024-12-29,14:30 (23:30),Premier League,Matchweek 19,Sun,Away,W,2,0,Leicester City,26,20,1,2,1,1,1,3,2,0,0,1,0,0
+2025-01-04,15:00 (00:00),Premier League,Matchweek 20,Sat,Home,W,4,1,West Ham,19,17,1,1,0,0,0,5,4,0,1,0,0,0
+2025-01-11,17:45 (02:45),FA Cup,Third round proper,Sat,Home,W,8,0,Salford City,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+2025-01-14,19:30 (04:30),Premier League,Matchweek 21,Tue,Away,D,2,2,Brentford,38,35,1,1,1,0,0,3,2,0,0,1,0,0
+2025-01-19,16:30 (01:30),Premier League,Matchweek 22,Sun,Away,W,6,0,Ipswich Town,29,25,1,1,2,0,0,11,11,0,0,0,0,0
+2025-01-22,21:00 (05:00),Champions Lg,League phase,Wed,Away,L,2,4,fr Paris S-G,14,7,1,1,3,1,1,1,0,0,0,1,0,0
+2025-01-25,17:30 (02:30),Premier League,Matchweek 23,Sat,Home,W,3,1,Chelsea,27,21,0,1,4,1,0,5,4,0,0,1,0,0
+2025-01-29,20:00 (05:00),Champions Lg,League phase,Wed,Home,W,3,1,be Club Brugge,30,25,2,0,1,0,2,4,4,0,0,0,0,0
+2025-02-02,16:30 (01:30),Premier League,Matchweek 24,Sun,Away,L,1,5,Arsenal,14,12,2,0,0,0,0,2,2,0,0,0,0,0
+2025-02-08,12:15 (21:15),FA Cup,Fourth round proper,Sat,Away,W,2,1,Leyton Orient,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+2025-02-11,20:00 (05:00),Champions Lg,Knockout phase play-offs,Tue,Home,L,2,3,es Real Madrid,21,15,3,0,1,2,0,4,3,0,0,0,1,0
+2025-02-15,15:00 (00:00),Premier League,Matchweek 25,Sat,Home,W,4,0,Newcastle Utd,19,15,3,1,0,0,0,8,7,1,0,0,0,0
+2025-02-19,21:00 (05:00),Champions Lg,Knockout phase play-offs,Wed,Away,L,1,3,es Real Madrid,20,14,0,1,3,2,0,1,0,0,0,1,0,0

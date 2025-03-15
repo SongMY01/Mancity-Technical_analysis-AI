@@ -1,0 +1,40 @@
+﻿Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Touches,Touches_Def Pen,Touches_Def 3rd,Touches_Mid 3rd,Touches_Att 3rd,Touches_Att Pen,Touches_Live,Take-Ons_Att,Take-Ons_Succ,Take-Ons_Succ%,Take-Ons_Tkld,Take-Ons_Tkld%,Carries,Carries_TotDist,Carries_PrgDist,Carries_PrgC,Carries_1/3,Carries_CPA,Carries_Mis,Carries_Dis,Receiving_Rec,Receiving_PrgR
+2024-08-10,15:00 (23:00),FA Community Shield,FA Community Shield,Sat,Home,D,1 (7),1 (6),Manchester Utd,56,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+2024-08-18,16:30 (00:30),Premier League,Matchweek 1,Sun,Away,W,2,0,Chelsea,52,664,76,238,261,178,24,664,30,15,50,8,26.7,385,2736,1620,41,31,13,8,12,496,32
+2024-08-24,15:00 (23:00),Premier League,Matchweek 2,Sat,Home,W,4,1,Ipswich Town,75,884,33,126,363,401,47,883,20,11,55,7,35,501,2654,1510,27,27,11,16,10,718,60
+2024-08-31,17:30 (01:30),Premier League,Matchweek 3,Sat,Away,W,3,1,West Ham,67,857,74,195,362,303,57,857,19,12,63.2,3,15.8,461,2857,1695,39,20,16,7,8,681,77
+2024-09-14,15:00 (23:00),Premier League,Matchweek 4,Sat,Home,W,2,1,Brentford,54,671,47,151,195,329,51,671,14,3,21.4,8,57.1,341,2101,1111,25,22,14,16,12,495,54
+2024-09-18,20:00 (04:00),Champions Lg,League phase,Wed,Home,D,0,0,it Inter,60,769,47,119,331,321,47,769,9,2,22.2,2,22.2,570,2621,1365,31,27,12,7,9,614,61
+2024-09-22,16:30 (00:30),Premier League,Matchweek 5,Sun,Home,D,2,2,Arsenal,77,847,34,112,236,504,53,847,21,10,47.6,9,42.9,601,3387,2010,59,38,17,10,7,658,54
+2024-09-24,19:45 (03:45),EFL Cup,Third round,Tue,Home,W,2,1,Watford,72,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+2024-09-28,12:30 (20:30),Premier League,Matchweek 6,Sat,Away,D,1,1,Newcastle Utd,62,705,70,200,272,240,38,705,24,13,54.2,7,29.2,493,2605,1395,31,22,12,15,8,506,40
+2024-10-01,21:00 (04:00),Champions Lg,League phase,Tue,Away,W,4,0,sk Slovan Bratislava,75,904,11,49,380,479,77,904,24,12,50,12,50,585,3396,2052,43,39,19,15,10,714,90
+2024-10-05,15:00 (23:00),Premier League,Matchweek 7,Sat,Home,W,3,2,Fulham,58,770,41,120,378,278,39,770,28,11,39.3,13,46.4,506,2724,1480,31,16,9,11,10,585,56
+2024-10-20,14:00 (22:00),Premier League,Matchweek 8,Sun,Away,W,2,1,Wolves,77,890,14,82,269,546,80,890,30,10,33.3,12,40,601,3597,2182,65,42,23,10,14,681,100
+2024-10-23,20:00 (04:00),Champions Lg,League phase,Wed,Home,W,5,0,cz Sparta Prague,79,890,37,136,312,449,54,889,24,16,66.7,7,29.2,647,3548,2025,46,42,16,8,10,723,75
+2024-10-26,15:00 (23:00),Premier League,Matchweek 9,Sat,Home,W,1,0,Southampton,57,735,30,84,237,418,52,735,12,9,75,2,16.7,526,2460,1383,38,20,16,3,12,592,63
+2024-10-30,20:15 (05:15),EFL Cup,Fourth round,Wed,Away,L,1,2,Tottenham,68,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+2024-11-02,15:00 (00:00),Premier League,Matchweek 10,Sat,Away,L,1,2,Bournemouth,64,748,58,199,280,276,44,748,17,6,35.3,6,35.3,510,2751,1497,31,14,12,16,10,560,46
+2024-11-05,20:00 (05:00),Champions Lg,League phase,Tue,Away,L,1,4,pt Sporting CP,72,718,28,93,349,281,38,717,24,10,41.7,11,45.8,457,2949,1710,34,22,9,8,9,567,76
+2024-11-09,17:30 (02:30),Premier League,Matchweek 11,Sat,Away,L,1,2,Brighton,60,773,65,218,410,150,26,773,25,15,60,4,16,467,2589,1237,24,15,10,11,12,601,52
+2024-11-23,17:30 (02:30),Premier League,Matchweek 12,Sat,Home,L,0,4,Tottenham,58,716,32,126,322,275,38,716,15,9,60,5,33.3,481,2722,1462,32,30,10,13,8,543,71
+2024-11-26,20:00 (05:00),Champions Lg,League phase,Tue,Home,D,3,3,nl Feyenoord,63,771,40,137,400,240,41,770,18,7,38.9,8,44.4,463,2684,1403,27,26,8,13,13,582,64
+2024-12-01,16:00 (01:00),Premier League,Matchweek 13,Sun,Away,L,0,2,Liverpool,56,686,87,210,308,171,27,686,25,13,52,10,40,422,2578,1289,20,12,12,14,12,492,39
+2024-12-04,19:30 (04:30),Premier League,Matchweek 14,Wed,Home,W,3,0,Nott'ham Forest,66,714,70,187,318,220,38,714,27,13,48.1,9,33.3,454,3155,1766,37,25,16,11,15,526,51
+2024-12-07,15:00 (00:00),Premier League,Matchweek 15,Sat,Away,D,2,2,Crystal Palace,68,854,53,203,388,266,34,854,12,5,41.7,6,50,594,3383,1811,21,27,7,14,12,663,56
+2024-12-11,21:00 (05:00),Champions Lg,League phase,Wed,Away,L,0,2,it Juventus,69,826,56,158,384,288,32,826,24,12,50,9,37.5,573,3203,1643,23,32,3,18,12,668,59
+2024-12-15,16:30 (01:30),Premier League,Matchweek 16,Sun,Home,L,1,2,Manchester Utd,52,625,52,147,292,187,15,625,22,9,40.9,12,54.5,322,1620,822,20,14,5,7,12,449,30
+2024-12-21,12:30 (21:30),Premier League,Matchweek 17,Sat,Away,L,1,2,Aston Villa,56,651,45,122,338,194,20,651,20,8,40,9,45,459,2848,1553,28,18,9,8,13,505,47
+2024-12-26,12:30 (21:30),Premier League,Matchweek 18,Thu,Home,D,1,1,Everton,66,789,39,129,394,270,47,788,24,13,54.2,8,33.3,517,3099,1724,30,34,9,15,9,605,68
+2024-12-29,14:30 (23:30),Premier League,Matchweek 19,Sun,Away,W,2,0,Leicester City,47,623,54,172,290,162,24,623,12,5,41.7,7,58.3,388,2211,1172,12,14,3,12,7,479,40
+2025-01-04,15:00 (00:00),Premier League,Matchweek 20,Sat,Home,W,4,1,West Ham,56,673,65,192,330,157,26,673,12,6,50,3,25,391,2357,1163,21,19,5,17,10,500,40
+2025-01-11,17:45 (02:45),FA Cup,Third round proper,Sat,Home,W,8,0,Salford City,69,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+2025-01-14,19:30 (04:30),Premier League,Matchweek 21,Tue,Away,D,2,2,Brentford,55,669,88,205,176,297,44,669,12,6,50,5,41.7,419,2443,1381,33,28,12,11,5,462,37
+2025-01-19,16:30 (01:30),Premier League,Matchweek 22,Sun,Away,W,6,0,Ipswich Town,67,855,59,207,378,274,41,855,15,9,60,5,33.3,581,3138,1701,34,30,15,16,8,693,49
+2025-01-22,21:00 (05:00),Champions Lg,League phase,Wed,Away,L,2,4,fr Paris S-G,37,500,89,197,194,113,21,500,22,6,27.3,10,45.5,258,1620,757,18,13,3,17,9,313,27
+2025-01-25,17:30 (02:30),Premier League,Matchweek 23,Sat,Home,W,3,1,Chelsea,56,695,85,283,285,136,25,695,16,9,56.3,7,43.8,461,2731,1329,17,14,5,7,5,508,32
+2025-01-29,20:00 (05:00),Champions Lg,League phase,Wed,Home,W,3,1,be Club Brugge,73,937,35,92,482,370,27,937,14,5,35.7,8,57.1,665,3954,2147,41,37,5,8,2,782,77
+2025-02-02,16:30 (01:30),Premier League,Matchweek 24,Sun,Away,L,1,5,Arsenal,54,590,57,167,242,188,14,590,8,2,25,4,50,385,2225,1122,19,17,2,9,12,434,38
+2025-02-08,12:15 (21:15),FA Cup,Fourth round proper,Sat,Away,W,2,1,Leyton Orient,73,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+2025-02-11,20:00 (05:00),Champions Lg,Knockout phase play-offs,Tue,Home,L,2,3,es Real Madrid,54,615,68,195,307,115,20,614,12,6,50,6,50,417,2487,1260,21,10,7,4,9,463,31
+2025-02-15,15:00 (00:00),Premier League,Matchweek 25,Sat,Home,W,4,0,Newcastle Utd,61,721,64,205,337,189,23,721,28,8,28.6,17,60.7,437,2697,1187,19,22,8,15,9,557,38

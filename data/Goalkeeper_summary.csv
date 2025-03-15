@@ -1,0 +1,40 @@
+﻿Player,Nation,Pos,Age,Premier League_MP,Premier League_Min,Premier League_Gls,Premier League_Ast,Champions League_MP,Champions League_Min,Champions League_Gls,Champions League_Ast,FA Cup_MP,FA Cup_Min,FA Cup_Gls,FA Cup_Ast,EFL Cup_MP,EFL Cup_Min,EFL Cup_Gls,EFL Cup_Ast,FA Community Shield_MP,FA Community Shield_Min,FA Community Shield_Gls,FA Community Shield_Ast,Combined_MP,Combined_Min,Combined_Gls,Combined_Ast
+Nico O’Reilly,ENG,FW,19,2,23,0,0,1,10,0,0,2,161,1,0,2,162,0,0,1,62,0,0,8,418,1,0
+Omar Marmoush,EGY,FW,25,3,219,3,0,1,7,0,0,1,90,0,0,,,,,,,,,5,316,3,0
+Jahmai Simpson-Pusey,ENG,DF,18,2,96,0,0,2,112,0,0,1,90,0,0,1,17,0,0,,,,,6,315,0,0
+Abdukodir Khusanov,UZB,DF,20,2,143,0,0,,,,,1,45,1,0,,,,,,,,,3,188,1,0
+Rodri,ESP,MF,28,2,65,0,0,1,90,0,0,,,,,,,,,,,,,3,155,0,0
+Divin Mubama,ENG,FW,19,1,28,0,0,,,,,1,90,1,0,,,,,,,,,2,118,1,0
+Nicolás González,ESP,MF,22,1,90,0,0,,,,,1,21,0,0,,,,,,,,,2,111,0,0
+Oscar Bobb,NOR,FW,21,,,,,,,,,,,,,,,,,1,89,0,1,1,89,0,1
+Kaden Braithwaite,ENG,DF,16,,,,,,,,,,,,,1,75,0,0,,,,,1,75,0,0
+Jacob Wright,ENG,MF,18,,,,,,,,,,,,,2,46,0,0,,,,,2,46,0,0
+Vitor Reis,BRA,DF,18,,,,,,,,,1,45,0,0,,,,,,,,,1,45,0,0
+Kalvin Phillips,ENG,"DF,MF",28,,,,,,,,,,,,,,,,,,,,,,,,
+Farid Alfa-Ruprecht,GER,FW,18,,,,,,,,,,,,,,,,,,,,,,,,
+Max Hudson,WAL,GK,16,,,,,,,,,,,,,,,,,,,,,,,,
+Thorsten Brits,ENG,GK,17,,,,,,,,,,,,,,,,,,,,,,,,
+Max Alleyne,ENG,DF,18,,,,,,,,,,,,,,,,,,,,,,,,
+Scott Carson,ENG,GK,38,,,,,,,,,,,,,,,,,,,,,,,,
+Issa Kaboré,BFA,"DF,MF",23,,,,,,,,,,,,,,,,,,,,,,,,
+Josh Wilson-Esbrand,ENG,DF,21,,,,,,,,,,,,,,,,,,,,,,,,
+Erling Haaland,NOR,FW,24,25,"2,210",19,3,9,769,8,0,,,,,,,,,1,90,0,0,35,"3,069",27,3
+Joško Gvardiol,CRO,DF,22,24,"2,108",5,0,9,724,0,1,,,,,2,60,0,0,1,89,0,0,36,"2,981",5,1
+Bernardo Silva,POR,"MF,FW",29,23,"1,916",2,4,8,673,0,0,1,69,0,0,1,33,0,0,1,11,1,0,34,"2,702",3,4
+Rico Lewis,ENG,"DF,MF",19,20,"1,492",1,2,9,640,0,1,1,90,0,1,2,180,0,1,1,90,0,0,33,"2,492",1,5
+Manuel Akanji,SUI,DF,29,20,"1,707",0,0,8,644,0,1,1,45,0,0,,,,,1,90,0,0,30,"2,486",0,1
+Phil Foden,ENG,"MF,FW",24,20,"1,439",7,2,8,611,3,1,2,55,0,1,2,147,0,0,,,,,32,"2,252",10,4
+Ederson,BRA,GK,30,16,"1,440",0,3,7,630,0,0,1,90,0,0,,,,,1,90,0,0,25,"2,250",0,3
+İlkay Gündoğan,GER,MF,33,22,"1,430",0,2,9,447,2,0,2,180,0,0,1,45,0,0,,,,,34,"2,102",2,2
+Sávio,BRA,"FW,MF",20,20,"1,260",1,7,8,486,1,1,2,144,0,0,2,107,0,1,1,28,0,0,33,"2,025",2,9
+Mateo Kovačić,CRO,MF,30,21,"1,549",4,1,5,294,1,0,1,17,0,0,1,45,0,0,1,90,0,0,29,"1,995",5,1
+Matheus Nunes,POR,"MF,DF",25,17,894,0,4,7,531,1,3,1,90,0,1,2,180,2,0,1,28,0,0,28,"1,723",3,8
+Rúben Dias,POR,DF,27,14,"1,177",0,0,6,363,0,0,1,45,0,0,1,45,0,0,1,90,0,0,23,"1,720",0,0
+Kevin De Bruyne,BEL,MF,33,17,"1,011",2,6,7,397,0,0,1,19,1,0,,,,,1,1,0,0,26,"1,428",3,6
+Stefan Ortega,GER,GK,31,9,810,0,0,2,180,0,0,1,90,0,0,2,180,0,0,,,,,14,"1,260",0,0
+Jack Grealish,ENG,"FW,MF",28,15,608,0,1,6,353,1,0,2,180,1,3,1,90,0,1,,,,,24,"1,231",2,5
+Jeremy Doku,BEL,FW,22,16,804,3,4,4,193,0,1,1,73,2,2,1,45,1,0,1,62,0,0,23,"1,177",6,7
+Kyle Walker,ENG,DF,34,15,970,0,0,2,103,0,0,,,,,1,90,0,0,,,,,18,"1,163",0,0
+John Stones,ENG,"DF,MF",30,11,548,2,0,5,356,1,2,1,45,0,0,2,180,0,0,,,,,19,"1,129",3,2
+Nathan Aké,NED,DF,29,9,602,0,0,3,201,0,0,1,45,0,0,1,73,0,0,1,1,0,0,15,922,0,0
+James Mcatee,ENG,"MF,FW",21,8,104,2,0,4,96,1,0,2,161,3,0,2,180,0,0,1,79,0,0,17,620,6,0
